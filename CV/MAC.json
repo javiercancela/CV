@@ -12,10 +12,6 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/javiercancela/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/javiercancela"
       },
@@ -26,6 +22,82 @@
       {
         "type": "other",
         "URL": "https://www.javiercancela.com/"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/javiercancela/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Salesforce",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tableau",
+          "type": "technology"
+        }
       }
     ]
   },
