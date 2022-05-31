@@ -34,8 +34,12 @@
     ],
     "interestingFacts": [
       {
-        "topic": "My favirte sport teams",
+        "topic": "My favorite sport teams",
         "fact": "Deportivo de La Coruña\nSome NBA team with a European star (currently Dallas Mavericks)"
+      },
+      {
+        "topic": "My first computer",
+        "fact": "Sinclair ZX-81\nNo graphics, no monitor, no keyboard, 1KB of RAM. A wonderful machine."
       }
     ]
   },
