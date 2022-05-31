@@ -75,6 +75,12 @@
       },
       {
         "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Linux",
           "type": "technology"
         }
@@ -87,19 +93,13 @@
       },
       {
         "skill": {
-          "name": "jQuery",
+          "name": "RabbitMQ",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Tableau",
           "type": "technology"
         }
       }
