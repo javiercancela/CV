@@ -31,6 +31,12 @@
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/javiercancela/"
       }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My favirte sport teams",
+        "fact": "Deportivo de La Coruña\nSome NBA team with a European star (currently Dallas Mavericks)"
+      }
     ]
   },
   "knowledge": {
