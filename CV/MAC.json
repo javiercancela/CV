@@ -43,6 +43,49 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Netex Learning",
+          "image": {
+            "alt": "Horizontal Netex.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/25c58c81-1ce5-4df7-be7e-5b824a185b38_horizontal-netex.svg"
+          },
+          "URL": "https://www.netexlearning.com/"
+        },
+        "roles": [
+          {
+            "name": "Head of Engineering",
+            "startDate": "2021-07-01",
+            "challenges": [
+              {
+                "description": "I lead Netex Tech Leads to discuss the right approach for the different\narchitectural challenges in our applications: authentication,\nasynchronous communications, cloud-oriented development…\n\nI promote DDD and hexagonal architecture among the developers.\n\nI coordinate the migration to AWS of Netex products based on managed\nservices rather than EC2-based lift and shift instances."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
