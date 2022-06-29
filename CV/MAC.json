@@ -139,6 +139,54 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Netex Learning",
+          "image": {
+            "alt": "Horizontal Netex.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/c26633b2-3b4f-4ad4-b6ad-34b6b24bc2b7_horizontal-netex.svg"
+          },
+          "URL": "https://www.netexlearning.com/"
+        },
+        "roles": [
+          {
+            "name": "Product Owner",
+            "startDate": "2017-10-01",
+            "finishDate": "2019-03-01",
+            "challenges": [
+              {
+                "description": "I am a Product Owner for a Saas eLearning tool. I gather information\nfrom our clients, internal users, and management to build user stories\nand prioritize the backlog.\n\nI help the Scrum Master and the development team with the transition to\na self-organized team, and I also mentor some members to help them\nwork as a team.\n\nSome of the technical tasks are: reviewing the architectures used in the\ndifferent applications, improving the delivery pipeline, and evaluating the\nright technologies for the new version of the application.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
