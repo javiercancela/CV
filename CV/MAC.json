@@ -83,6 +83,62 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Redegal",
+          "image": {
+            "alt": "Horizontal Netex.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/2cdeca9f-3c3a-4afd-9a0d-123960e72a18_horizontal-netex.svg"
+          },
+          "URL": "https://www.redegal.com"
+        },
+        "roles": [
+          {
+            "name": "Head of Operations",
+            "startDate": "2019-03-01",
+            "finishDate": "2021-07-01",
+            "challenges": [
+              {
+                "description": "I am in charge of the development and IT departments of Redegal. I plan\nand monitor the day-to-day running of these departments, and their\ninteractions with other departments, both in Spain and Mexico.\n\nMost of the teams are focused on eCommerce tools (Magento,\nPrestaShop, Shopify, WooCommerce), hosted in a private cloud managed\nby the IT team, or, in some cases, in AWS. But we also have some\nnon-eCommerce projects with Node.js and Java.\n\nI'm also involved in some of the accounts, providing support to the\nproject managers, collaborating with sales, and helping with our client's\nstrategic goals"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Magento",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Prestashop",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Shopify",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
