@@ -260,6 +260,25 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Physics",
+        "startDate": "1991-09-01",
+        "finishDate": "1999-02-01",
+        "institution": {
+          "name": "Universidade de Santiago de Compostela",
+          "description": "Major in Electronics and Computing"
+        },
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
