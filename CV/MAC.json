@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,7 +11,10 @@
       "title": "Technically-minded manager, people-oriented engineer.",
       "description": "My name is Javier, and I love coding.\n\nI got my first computer when I was 9. At some point in my teens, I decided to become a physicist, but after getting the degree I started working as a software developer.\n\nCoding is what I love, but what I do really well is helping teams of developers perform at their best. This is something that took me several years to figure out, working as a junior developer, senior developer, project manager, product manager, operations manager, and some other roles with different combinations of technical and managerial responsibilities.\n\nMy current areas of interest include transitioning teams to working with clean architectures (using DDD and hexagonal architecture), levering the cloud through AWS managed services, and building teams that own a whole business domain, from feature conception to production.\n\nI love trying new languages, even if I don't have enough time to become an expert. Just changing paradigms is a lot of fun.",
       "location": {
-        "notes": "A Coruña, Galicia, Spain "
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "La Coruña",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -228,22 +231,24 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
+          "name": "Jira",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -261,13 +266,7 @@
       },
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -285,13 +284,19 @@
       },
       {
         "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "RabbitMQ",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jira",
+          "name": "MongoDB",
           "type": "technology"
         }
       }
@@ -324,6 +329,14 @@
           "URL": "https://www.linkedin.com/in/javiercancela/"
         }
       ]
-    }
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Engineering Management",
+        "IT Manager",
+        "Software Architect"
+      ]
+    },
+    "status": "notAvailable"
   }
 }
