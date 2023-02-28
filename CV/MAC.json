@@ -61,6 +61,18 @@
             "startDate": "2022-10-01",
             "competences": [
               {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Keycloak",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
                 "name": "Python",
                 "type": "technology"
               },
