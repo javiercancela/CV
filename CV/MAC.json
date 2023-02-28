@@ -85,6 +85,7 @@
           {
             "name": "Head of Engineering",
             "startDate": "2021-07-01",
+            "finishDate": "2022-10-01",
             "challenges": [
               {
                 "description": "I lead Netex Tech Leads to discuss the right approach for the different\narchitectural challenges in our applications: authentication,\nasynchronous communications, cloud-oriented development…\n\nI promote DDD and hexagonal architecture among the developers.\n\nI coordinate the migration to AWS of Netex products based on managed\nservices rather than EC2-based lift and shift instances."
