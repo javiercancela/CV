@@ -9,30 +9,14 @@
       "name": "Javier",
       "surnames": "Cancela Vicente",
       "title": "Technically-minded manager, people-oriented engineer.",
+      "description": "My name is Javier, and I love coding.\n\nI got my first computer when I was 9. At some point in my teens, I decided to become a physicist, but after getting the degree I started working as a software developer.\n\nCoding is what I love, but what I do really well is helping teams of developers perform at their best. This is something that took me several years to figure out, working as a junior developer, senior developer, project manager, product manager, operations manager, and some other roles with different combinations of technical and managerial responsibilities.\n\nMy current areas of interest include transitioning teams to working with clean architectures (using DDD and hexagonal architecture), levering the cloud through AWS managed services, and building teams that own a whole business domain, from feature conception to production.\n\nI love trying new languages, even if I don't have enough time to become an expert. Just changing paradigms is a lot of fun.",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
         "country": "España",
         "region": "Galicia",
         "municipality": "La Coruña"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/javiercancela"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/javier_cancela_"
-      },
-      {
-        "type": "other",
-        "URL": "https://www.javiercancela.com/"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/javiercancela/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "My favorite sport teams",
@@ -42,6 +26,12 @@
         "topic": "My first computer",
         "fact": "Sinclair ZX-81.\nNo graphics, no monitor, no keyboard, 1KB of RAM. A wonderful machine."
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://www.javiercancela.com/"
+      }
     ]
   },
   "experience": {
@@ -50,8 +40,8 @@
         "organization": {
           "name": "Joor",
           "image": {
-            "alt": "1658508303530.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/28/90353902-5dc5-47f6-a953-a4f7efd184d6_1658508303530.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/28/90353902-5dc5-47f6-a953-a4f7efd184d6_1658508303530.jpeg",
+            "alt": "1658508303530.jpeg"
           },
           "URL": "https://joor.com"
         },
@@ -88,8 +78,8 @@
         "organization": {
           "name": "Netex Learning",
           "image": {
-            "alt": "Horizontal Netex.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/25c58c81-1ce5-4df7-be7e-5b824a185b38_horizontal-netex.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/25c58c81-1ce5-4df7-be7e-5b824a185b38_horizontal-netex.svg",
+            "alt": "Horizontal Netex.svg"
           },
           "URL": "https://www.netexlearning.com/"
         },
@@ -128,8 +118,8 @@
         "organization": {
           "name": "Redegal",
           "image": {
-            "alt": "1659337442005.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/28/0f02c331-03bf-42dd-bb83-93769689e1b6_1659337442005.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/28/0f02c331-03bf-42dd-bb83-93769689e1b6_1659337442005.jpeg",
+            "alt": "1659337442005.jpeg"
           },
           "URL": "https://www.redegal.com"
         },
@@ -184,8 +174,8 @@
         "organization": {
           "name": "Netex Learning",
           "image": {
-            "alt": "Horizontal Netex.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/c26633b2-3b4f-4ad4-b6ad-34b6b24bc2b7_horizontal-netex.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/29/c26633b2-3b4f-4ad4-b6ad-34b6b24bc2b7_horizontal-netex.svg",
+            "alt": "Horizontal Netex.svg"
           },
           "URL": "https://www.netexlearning.com/"
         },
@@ -268,52 +258,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Salesforce",
           "type": "technology"
         }
       },
@@ -325,13 +281,49 @@
       },
       {
         "skill": {
-          "name": "RabbitMQ",
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Salesforce",
           "type": "technology"
         }
       }
@@ -342,11 +334,11 @@
         "degreeAchieved": true,
         "name": "Physics",
         "startDate": "1991-09-01",
-        "finishDate": "1999-02-01",
         "institution": {
           "name": "Universidade de Santiago de Compostela",
           "description": "Major in Electronics and Computing"
         },
+        "finishDate": "1999-02-01",
         "linkedCompetences": [
           {
             "name": "C",
@@ -354,14 +346,51 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Good intercultural communication",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/javiercancela/"
+          "URL": "https://www.linkedin.com/in/javiercancela/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/javiercancela",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/javier_cancela_",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "javier.cancela.vicente@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "676592376",
+          "countryCode": "+34"
         }
       ]
     },
@@ -371,6 +400,11 @@
         "IT Manager",
         "Software Architect"
       ]
-    }
+    },
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "My ideal job is one where I work with skilled people helping to solve technical and non-technical problems, and having to learn new things to do my job correctly.\n\nA job with a team or a group of teams working on software development, where I can help organize the job, define architectures and good practices, talk to stakeholders, write code, or do whatever is needed to understand the problems the users have and implement the right solutions.",
+    "goodPractices": "Clean code and Clean architectures.\nTesting.\nFocus on creating a platform that allows the team to deploy to production with confidence."
   }
 }
